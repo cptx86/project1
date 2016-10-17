@@ -1,4 +1,4 @@
-#    ubuntu base image
+#    ubuntu base image 
 FROM ubuntu
 
 MAINTAINER <Author name and email address>
