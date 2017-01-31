@@ -1,5 +1,5 @@
 #    ubuntu base image 
-FROM ubuntu
+FROM ubuntu:14.04
 
 MAINTAINER <Author name and email address>
 
