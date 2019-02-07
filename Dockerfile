@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.13.18  2019-02-06T18:59:38.747310-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.12  
+#		   local no --tag display V0.12 entered V0.13 
 #		Dockerfile  V0.12.17  2019-02-06T18:43:34.007001-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.11-1-g9e902ba  
 #		   prompt V0.11 entered V0.12 include git push NOT local 
 #		Dockerfile  V0.11.16  2019-02-06T18:39:35.508080-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.11  
@@ -29,5 +31,7 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
+
 
 
