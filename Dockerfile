@@ -1,5 +1,5 @@
 ###
-#		Dockerfile  V0.31.41  2019-02-07T17:19:11.005023-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.31  
+#		Dockerfile  V0.31.42  2019-02-07T17:19:49.155544-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.31-1-gf123784  
 #		   local tag prompt V0.31 pressed enter 
 #		Dockerfile  V0.23.29  2019-02-06T21:05:14.859840-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.22  
 #		   local tag prompt V0.22 entered V0.23 
