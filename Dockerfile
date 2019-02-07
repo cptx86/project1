@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.10.14  2019-02-06T18:20:54.814222-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.9  
+#		   testing version number and local repository withOUT git push 
 #		Dockerfile  V0.9.13  2019-02-06T17:51:05.337560-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.8  
 #		   testing V0.9 
 #		Dockerfile  V0.8.12  2019-02-06T17:48:50.516944-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.7  
@@ -21,4 +23,4 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 
-
+###
