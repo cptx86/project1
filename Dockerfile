@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.18.23  2019-02-06T19:23:16.511766-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.17  
+#		   remote --tag display V0.17 entered V0.18 
 #		Dockerfile  V0.17.22  2019-02-06T19:16:13.966783-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.16  
 #		   local --tag display V0.16 entered V0.17 
 #		Dockerfile  V0.16.21  2019-02-06T19:13:35.221356-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.12-3-g280032b  
@@ -39,4 +41,5 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
 
