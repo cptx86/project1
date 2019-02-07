@@ -1,24 +1,6 @@
 ###
-#		Dockerfile  V0.30.39  2019-02-07T13:22:34.910721-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.30-1-g920a680  
-#		   remote no tag prompt V0.30 entered NONE 
-#		Dockerfile  V0.30.38  2019-02-07T13:20:07.027184-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.30  
-#		   local NO tag prompt V0.30 entered NONE 
-#		Dockerfile  V0.30.37  2019-02-07T13:18:53.961165-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.29  
-#		   local tag prompt V0.29 entered V0.30 
-#		Dockerfile  V0.29.36  2019-02-07T12:35:47.506188-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.28  
-#		   local tag prompt V0.28 entered V0.29 
-#		Dockerfile  V0.28.35  2019-02-07T10:02:15.959754-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.27  
-#		   local tag  prompt V0.27 entered V0.28 
-#		Dockerfile  V0.27.34  2019-02-07T09:57:51.008979-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.26  
-#		   local tag prompt V026 entered V027 
-#		Dockerfile  V0.26.33  2019-02-06T21:11:38.667476-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.25  
-#		   remote tag prompt V0.25 entered V0.26 
-#		Dockerfile  V0.25.32  2019-02-06T21:09:21.176557-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.24-1-g3ddbb9d  
-#		   local tag prompt V0.24 entered V0.25 
-#		Dockerfile  V0.24.31  2019-02-06T21:07:58.745023-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.24  
-#		   local not tag prompt V0.24 entered V0.24 
-#		Dockerfile  V0.24.30  2019-02-06T21:06:51.435483-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.23  
-#		   local tag prompt V0.23 entered V0.24 
+#		Dockerfile  V0.31.40  2019-02-07T17:18:05.788444-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.30-2-g79592c9  
+#		   local tag prompt V0.30 entered V0.31 start tag all test with same version number 
 #		Dockerfile  V0.23.29  2019-02-06T21:05:14.859840-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.22  
 #		   local tag prompt V0.22 entered V0.23 
 #		Dockerfile  V0.22.28  2019-02-06T20:56:46.782870-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.21-1-g8ad3420  
