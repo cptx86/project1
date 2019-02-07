@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.11.16  2019-02-06T18:39:35.508080-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.11  
+#		   displayingh V0.11 this includes push to remote repository 
 #		Dockerfile  V0.11.15  2019-02-06T18:36:06.717717-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.9-1-g6b7bd43  
 #		   testing local repository, reporting wrong version V0.9 not V0.10 added git --tag command this test 
 #		Dockerfile  V0.10.14  2019-02-06T18:20:54.814222-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.9  
@@ -25,3 +27,6 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
+
+
