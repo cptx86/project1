@@ -1,6 +1,6 @@
 ###
-#		Dockerfile  V0.31.40  2019-02-07T17:18:05.788444-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.30-2-g79592c9  
-#		   local tag prompt V0.30 entered V0.31 start tag all test with same version number 
+#		Dockerfile  V0.31.41  2019-02-07T17:19:11.005023-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.31  
+#		   local tag prompt V0.31 pressed enter 
 #		Dockerfile  V0.23.29  2019-02-06T21:05:14.859840-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.22  
 #		   local tag prompt V0.22 entered V0.23 
 #		Dockerfile  V0.22.28  2019-02-06T20:56:46.782870-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.21-1-g8ad3420  
