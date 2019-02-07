@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.11.15  2019-02-06T18:36:06.717717-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.9-1-g6b7bd43  
+#		   testing local repository, reporting wrong version V0.9 not V0.10 added git --tag command this test 
 #		Dockerfile  V0.10.14  2019-02-06T18:20:54.814222-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.9  
 #		   testing version number and local repository withOUT git push 
 #		Dockerfile  V0.9.13  2019-02-06T17:51:05.337560-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.8  
@@ -22,5 +24,4 @@ RUN mkdir -p /version; \
     /usr/bin/lsb_release -a > /version/base-image-build-"$(/usr/bin/lsb_release -si):$(/usr/bin/lsb_release -sr)-$(date -u +"%Y-%m-%d-%H:%M:%S-UTC")"
 
 CMD /bin/bash
-
 ###
