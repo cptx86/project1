@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.33.45  2019-02-07T19:39:18.197516-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.32-1-gd3682e7  
+#		   remote tag prompt V032 entered V0.33 
 #		Dockerfile  V0.32.44  2019-02-07T17:28:46.040999-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.32  
 #		   remote tag prompt V0.32 press enter 
 #		Dockerfile  V0.23.29  2019-02-06T21:05:14.859840-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.22  
@@ -29,3 +31,4 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
