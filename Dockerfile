@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.35.53  2019-02-07T20:45:34.323532-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34-6-gb0c7364  
+#		   how this is the final test 
 #		Dockerfile  V0.34.52  2019-02-07T20:42:25.971295-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34-5-gbd79470  
 #		   remote prompt V0.34 press enter test 4 
 #		Dockerfile  V0.34.51  2019-02-07T20:37:04.658125-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34-4-gf76e7fa  
@@ -45,6 +47,7 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
 
 
 
