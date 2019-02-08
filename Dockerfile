@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  alpha-1.2.1.60  2019-02-08T13:52:15.308084-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com v1.2  
+#		   testing alpha-1.2.1 to see if is becomes a release or just a commit 
 #		Dockerfile  v1.2.59  2019-02-08T13:18:29.656653-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com 0.36.4  
 #		   finished using this file to test markit for local and remote repository commits 
 ###
@@ -15,7 +17,6 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
-
 
 
 
