@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  V0.34.49  2019-02-07T20:25:01.543544-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34-2-gac8792c  
+#		   remote prompt V0.34 press enter 
 #		Dockerfile  V0.34.48  2019-02-07T20:23:21.229776-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34-1-gd942b12  
 #		   local prompt V0.34 entered V0.34 
 #		Dockerfile  V0.34.47  2019-02-07T20:21:46.786046-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com V0.34  
@@ -37,6 +39,8 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
+
+
 
 
 
