@@ -1,4 +1,6 @@
 ###
+#		Dockerfile  0.36.6.#14.beta.65  2019-02-08T14:20:02.972440-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com 0.36.6.#14.alpha  
+#		   0.36.6.#14.beta 
 #		Dockerfile  0.36.6.#14.alpha.64  2019-02-08T14:19:34.651637-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com 0.36.6.#62.alpha  
 #		   0.36.6.#14.alpha 
 #		Dockerfile  0.36.6.#62.alpha.63  2019-02-08T14:18:24.320188-06:00 (CST)  https://github.com/cptx86/project1.git  uadmin  one-rpi3b.cptx86.com 0.36.5.alpha  
@@ -25,7 +27,6 @@ RUN mkdir -p /version; \
 
 CMD /bin/bash
 ###
-
 
 
 
